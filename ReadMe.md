@@ -26,7 +26,7 @@ As the game progresses you get faster and so do the spikes coming towards you.
 The game is played in portrait mode.
 
 It is available on on the Windows Phone and Android store.  
-*Links below in section: 4 - Installation Steps (store)*
+<a href="#4-install">Links below in section: 4 - Installation Steps (store)</a>
 
 The Android version contains some updates and tweaks, such as smoother game play and better general game flow, the android version also uses the Google Play Games Services which means you can log in, see your friends scores (or global scores), challenges and total spikes dodged.
 This is implemented through the google play dashboard and also the Unity plugin for google play services found here: 
@@ -50,7 +50,6 @@ Once open you will see the menu scene open, in the middle of the Unity editor at
 The game will start to run in the Game window, here you can play the game.
 If you would like to play the game in full screen mode, be sure to select the "Maximize on Play" button in the Game window before pressing the Play button.
 
-![]( "")
 
 If you would like to build this game and run on your local device then from the menu bar select File -> Build Settings -> <Select Platform> -> Switch Platform -> Build And Run
 When you switch the platform the keystore and password that you use for the store gets removed (this is okay as this key should be kept somewhere safe).
@@ -58,7 +57,7 @@ When you switch the platform the keystore and password that you use for the stor
 The game at the moment is optomized for Android so there may be a bug when running on Windows as the Google Play Services is created for Android.
 If you would like to test I would recommend using the Unity Game Window, Building for Web or else downloading from the store.
 
-4 - Installation Steps (store)
+<a name="4-install">4 - Installation Steps (store)<a>
 -----------------------------
 It is available on on the Windows Phone and Android store.
 Select the links below to go to the store pages:  
