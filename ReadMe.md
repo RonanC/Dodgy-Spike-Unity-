@@ -118,8 +118,10 @@ Some of the other places help and information was found was: Stack Overflow, You
 ----------
 The _builds folder is not included in this repo, the game builds are too large for github, but these are unneeded as you would build it yourself if you were to edit this project.
   
-The [design document](https://github.com/RonanC/DodgySpike/blob/master/Design%20Document%20(DodgySpike).pdf) that was used for the Irish Games Fleadh.  
-  
+[Click here](https://github.com/RonanC/DodgySpike/blob/master/Design%20Document%20(DodgySpike).pdf) to view the design document for the project (also was used for the Irish Games Fleadh).
+<br>
+
+Below is the DodgySpike poster:
 <img src="https://github.com/RonanC/DodgySpike/blob/master/PromoImages/Dodgy-Spike-Poster-.png" width="500px" title="Poster" alt="Poster Image"/>
 
 9 - Team
