@@ -1,4 +1,4 @@
-![alt text](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/Dodgy-Spike-Logo3.png "Dodgy Spike")
+![Dodgy Spike Text Logo](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/Dodgy-Spike-Logo3.png "Dodgy Spike")
 
 Contents:
 ---------
@@ -21,6 +21,7 @@ Dodgy Spike is an endless runner style game created for the Mobile Applicatation
 It was also entered into the Irish Games Fleadh (Festival) 2015 in Athlone, Thurles.
 Created by Ronan Connolly - RonconApps.
 
+![RonconApps Logo](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/LogoSquareF.png "RonconApps")
 
 The game is set in a red cave world, you are a star and must dodge two different styles of spikes that generate on both sides of the cave walls.
 As the game progresses you get faster and so do the spikes coming towards you.
@@ -75,7 +76,7 @@ You are....
 Dodgy Spike.  
 **The infamous spike dodger!**
 
-![alt text](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/androidIcon.png "DodgySpikeLogo")
+![Spike Logo](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/androidIcon.png | height = 100px "Dodgy Spike Logo")
 
 Spike Dodger is an old-school style casual arcade game.  
 Become the ultimate Spike Dodger. 
@@ -100,13 +101,15 @@ Some of the other places help and information was found was: Stack Overflow, You
 
 8 - Extras
 ----------
-The design document that was used for the Irish Games Fleadh is also in this repository.  
-The poster for the game is also located here.  
-The _builds folder is not as the game builds are too large for github, but these are unneeded as you would build it yourself if you were to edit this project.
+The _builds folder is not included in this repo, the game builds are too large for github, but these are unneeded as you would build it yourself if you were to edit this project.
+
+The [design document]() that was used for the Irish Games Fleadh.  
+The [poster](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/Dodgy-Spike-Poster-.png) for the Games Fleadh.  
+![poster](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/Dodgy-Spike-Poster-.png "Poster")
 
 9 - Team
 --------
 This project was created by Ronan Connolly, Software Development student in third year, semester 6, GMIT.  
 Sound track and sound effects were created by Lyle Carlo Garces [LCG](https://soundcloud.com/lcgmusic).
 
-![alt text](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/LogoSquareF.png "RonconApps Logo")
+![Ronan](http://s.gravatar.com/avatar/62613a68a027e5027ae10a21c3282673?s=80 "Ronan")
