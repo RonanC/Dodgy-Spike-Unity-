@@ -19,10 +19,8 @@ Contents:
 ---------
 Dodgy Spike is an endless runner style game created for the Mobile Applicatations module in GMIT (Semester 6) on April 15th 2015.
 It was also entered into the Irish Games Fleadh (Festival) 2015 in Athlone, Thurles.
-Created by Ronan Connolly - RonconApps.
-
-![RonconApps Logo](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/LogoSquareF.png "RonconApps")
-
+Created by Ronan Connolly - RonconApps.  
+![RonconApps Logo](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/LogoSquareF.png "RonconApps")  
 The game is set in a red cave world, you are a star and must dodge two different styles of spikes that generate on both sides of the cave walls.
 As the game progresses you get faster and so do the spikes coming towards you.
 The game is played in portrait mode.
@@ -38,8 +36,8 @@ https://github.com/playgameservices/play-games-plugin-for-unity
 2 - Tools & Evironment used
 ---------------------------
 This game was created using Unity 4 (version 4.6.1f1) on OSX Yosemite (version 10.10.2
-The unity project opens perfectly fine on a Windows machine.
-
+The unity project opens perfectly fine on a Windows machine.  
+![Unity Logo](http://unity3d.com/profiles/unity3d/themes/unity/images/company/brand/logos/primary/logo.jpg "Unity")  
 In order to build the Windows version I opened the project up on a Windows 8.1 machine and compiled it there.
 The editor used was Unitys built in MonoDevelop-Unity (version 4.0.1)
 
@@ -52,6 +50,8 @@ Once open you will see the menu scene open, in the middle of the Unity editor at
 The game will start to run in the Game window, here you can play the game.
 If you would like to play the game in full screen mode, be sure to select the "Maximize on Play" button in the Game window before pressing the Play button.
 
+![]( "")
+
 If you would like to build this game and run on your local device then from the menu bar select File -> Build Settings -> <Select Platform> -> Switch Platform -> Build And Run
 When you switch the platform the keystore and password that you use for the store gets removed (this is okay as this key should be kept somewhere safe).
 
@@ -62,8 +62,24 @@ If you would like to test I would recommend using the Unity Game Window, Buildin
 -----------------------------
 It is available on on the Windows Phone and Android store.
 Select the links below to go to the store pages:  
-[**Windows Store**](https://www.windowsphone.com/en-ie/store/app/dodgy-spike/64b32eaf-42c3-48ac-ae5$)  
-[**Android**](https://play.google.com/store/apps/details?id=com.Roncon.DodgySpike&hl=en)
+
+<div style="">  
+  <a href="https://www.windowsphone.com/en-ie/store/app/dodgy-spike/64b32eaf-42c3-48ac-ae57-fd06483eb261">
+  <strong>Windows Phone Store</strong>  <br>
+  <img src="https://github.com/RonanC/DodgySpike/blob/master/PromoImages/windowsPhone.png" width="200px" title="WinPhone Badge" alt="WinPhone Badge"/>  <br>
+  <img src="https://github.com/RonanC/DodgySpike/blob/master/PromoImages/winPhoneQR.png" width="200px" title="WinPhone QR" alt="WinPhone QR"/>  
+  </a>  
+</div>  
+  
+<br><br>  
+  
+<div style="">  
+  <a href="https://play.google.com/store/apps/details?id=com.Roncon.DodgySpike&hl=en">
+  <strong>Android Store</strong>  <br>
+  <img src="https://github.com/RonanC/DodgySpike/blob/master/PromoImages/Google-Play-Badge.png" width="200px" title="Android Badge" alt="Android Badge"/>  <br>
+  <img src="https://github.com/RonanC/DodgySpike/blob/master/PromoImages/androidQR.png" width="200px" title="Android QR" alt="Android QR"/>  
+  </a>  
+</div>
 
 5 - Game Description
 --------------------
@@ -74,10 +90,10 @@ His mission is and always will be....
 To dodge the spikes.  
 You are....  
 Dodgy Spike.  
-**The infamous spike dodger!**
-
-![Spike Logo](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/androidIcon.png | height = 100px "Dodgy Spike Logo")
-
+**The infamous spike dodger!**  
+  
+<img src="https://github.com/RonanC/DodgySpike/blob/master/PromoImages/androidIcon.png" width="100px" title="Spike Logo" alt="Spike Logo"/>  
+  
 Spike Dodger is an old-school style casual arcade game.  
 Become the ultimate Spike Dodger. 
 Dodge spikes as quick as possible.  
@@ -95,21 +111,22 @@ Game speeds up as time goes on.
 -----------
 Overall the project was a success, in less then two months we learned how to use Unity, apply game dynamics and fundementals, created a working game implementing many features, uploaded it successfully to the Windows Phone and Android stores and entered into the Irish Games Fleadh.  
 Much was learned during this process.  
-
+  
 The Unity website has some amazing tutorials and documentation.  
 Some of the other places help and information was found was: Stack Overflow, YouTube tutorials and the general help and group work with other people also creating Unity games.  
 
 8 - Extras
 ----------
 The _builds folder is not included in this repo, the game builds are too large for github, but these are unneeded as you would build it yourself if you were to edit this project.
-
-The [design document]() that was used for the Irish Games Fleadh.  
-The [poster](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/Dodgy-Spike-Poster-.png) for the Games Fleadh.  
-![poster](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/Dodgy-Spike-Poster-.png "Poster")
+  
+The [design document](https://github.com/RonanC/DodgySpike/blob/master/Design%20Document%20(DodgySpike).pdf) that was used for the Irish Games Fleadh.  
+  
+<img src="https://github.com/RonanC/DodgySpike/blob/master/PromoImages/Dodgy-Spike-Poster-.png" width="500px" title="Poster" alt="Poster Image"/>
 
 9 - Team
 --------
 This project was created by Ronan Connolly, Software Development student in third year, semester 6, GMIT.  
-Sound track and sound effects were created by Lyle Carlo Garces [LCG](https://soundcloud.com/lcgmusic).
-
-![Ronan](http://s.gravatar.com/avatar/62613a68a027e5027ae10a21c3282673?s=80 "Ronan")
+<img src="https://github.com/RonanC/DodgySpike/blob/master/PromoImages/Ronan.png" width="100px" height="100px" title="Ronan" alt="Ronan Image"/>
+<br>  
+Sound track and sound effects were created by Lyle Carlo Garces [LCG](https://soundcloud.com/lcgmusic).  
+<img src="https://github.com/RonanC/DodgySpike/blob/master/PromoImages/LCG.png" width="100px" height="100px" title="LCG" alt="LCG Image"/>
