@@ -1,7 +1,4 @@
-DodgySpike
-==========
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/Dodgy-Spike-Logo3.png "Dodgy Spike")
 
 Contents:
 ---------
@@ -62,13 +59,10 @@ If you would like to test I would recommend using the Unity Game Window, Buildin
 
 4 - Installation Steps (store)
 -----------------------------
-It is available on on the Windows Phone and Android store. 
-
-**Windows Store:**  
-https://www.windowsphone.com/en-ie/store/app/dodgy-spike/64b32eaf-42c3-48ac-ae5$
-
-**Android:**  
-https://play.google.com/store/apps/details?id=com.Roncon.DodgySpike&hl=en
+It is available on on the Windows Phone and Android store.
+Select the links below to go to the store pages:  
+[**Windows Store**](https://www.windowsphone.com/en-ie/store/app/dodgy-spike/64b32eaf-42c3-48ac-ae5$)  
+[**Android**](https://play.google.com/store/apps/details?id=com.Roncon.DodgySpike&hl=en)
 
 5 - Game Description
 --------------------
@@ -80,6 +74,8 @@ To dodge the spikes.
 You are....  
 Dodgy Spike.  
 **The infamous spike dodger!**
+
+![alt text](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/androidIcon.png "DodgySpikeLogo")
 
 Spike Dodger is an old-school style casual arcade game.  
 Become the ultimate Spike Dodger. 
@@ -98,6 +94,7 @@ Game speeds up as time goes on.
 -----------
 Overall the project was a success, in less then two months we learned how to use Unity, apply game dynamics and fundementals, created a working game implementing many features, uploaded it successfully to the Windows Phone and Android stores and entered into the Irish Games Fleadh.  
 Much was learned during this process.  
+
 The Unity website has some amazing tutorials and documentation.  
 Some of the other places help and information was found was: Stack Overflow, YouTube tutorials and the general help and group work with other people also creating Unity games.  
 
@@ -111,3 +108,5 @@ The _builds folder is not as the game builds are too large for github, but these
 --------
 This project was created by Ronan Connolly, Software Development student in third year, semester 6, GMIT.  
 Sound track and sound effects were created by Lyle Carlo Garces [LCG](https://soundcloud.com/lcgmusic).
+
+![alt text](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/LogoSquareF.png "RonconApps Logo")
