@@ -3,16 +3,14 @@
 Contents:
 ---------
 1. About
-
-2. Tools & Evironment used
-
+2. Tools & Environment used
 3. Installation Steps (unity)
-
 4. Installation Steps (store)
-
-5. How to Play
-
-6. Summary
+5. Game Description
+6. How to Play
+7. Summary
+8. Extras
+9. Team
 
 
 1 - About
@@ -33,7 +31,7 @@ This is implemented through the google play dashboard and also the Unity plugin 
 https://github.com/playgameservices/play-games-plugin-for-unity
 
 
-2 - Tools & Evironment used
+2 - Tools & Environment used
 ---------------------------
 This game was created using Unity 4 (version 4.6.1f1) on OSX Yosemite (version 10.10.2
 The unity project opens perfectly fine on a Windows machine.  
