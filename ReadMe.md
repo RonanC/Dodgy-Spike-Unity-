@@ -125,7 +125,7 @@ The [design document](https://github.com/RonanC/DodgySpike/blob/master/Design%20
 9 - Team
 --------
 This project was created by Ronan Connolly, Software Development student in third year, semester 6, GMIT.  
-<img src="https://github.com/RonanC/DodgySpike/blob/master/PromoImages/Ronan.png" width="100px" height="100px" title="Ronan" alt="Ronan Image"/>
+<a href="http://ronanconnolly.ie"><img src="https://github.com/RonanC/DodgySpike/blob/master/PromoImages/Ronan.png" width="100px" height="100px" title="Ronan" alt="Ronan Image"/></a>
 <br>  
-Sound track and sound effects were created by Lyle Carlo Garces [LCG](https://soundcloud.com/lcgmusic).  
-<img src="https://github.com/RonanC/DodgySpike/blob/master/PromoImages/LCG.png" width="100px" height="100px" title="LCG" alt="LCG Image"/>
+Sound track and sound effects were created by Lyle Carlo Garces, aka: [LCG](https://soundcloud.com/lcgmusic).  
+<a href="https://soundcloud.com/lcgmusic"><img src="https://github.com/RonanC/DodgySpike/blob/master/PromoImages/LCG.png" width="100px" height="100px" title="LCG" alt="LCG Image"/></a>
