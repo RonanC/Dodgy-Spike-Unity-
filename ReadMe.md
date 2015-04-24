@@ -49,7 +49,7 @@ The game will start to run in the Game window, here you can play the game.
 If you would like to play the game in full screen mode, be sure to select the "Maximize on Play" button in the Game window before pressing the Play button.
 
 
-If you would like to build this game and run on your local device then from the menu bar select File -> Build Settings -> <Select Platform> -> Switch Platform -> Build And Run
+If you would like to build this game and run on your local device then from the menu bar select File -> Build Settings -> "Select Platform" -> Switch Platform -> Build And Run
 When you switch the platform the keystore and password that you use for the store gets removed (this is okay as this key should be kept somewhere safe).
 
 The game at the moment is optomized for Android so there may be a bug when running on Windows as the Google Play Services is created for Android.
