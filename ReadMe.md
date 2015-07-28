@@ -15,7 +15,7 @@ Contents:
 
 1 - About
 ---------
-Dodgy Spike is an endless runner style game created for the Mobile Applicatations module in GMIT (Semester 6) on April 15th 2015.
+Dodgy Spike is an endless runner style game created for the Mobile Applications module in GMIT (Semester 6) on April 15th 2015.
 It was also entered into the Irish Games Fleadh (Festival) 2015 in Athlone, Thurles.
 Created by Ronan Connolly - RonconApps.  
 ![RonconApps Logo](https://github.com/RonanC/DodgySpike/blob/master/PromoImages/LogoSquareF.png "RonconApps")  
