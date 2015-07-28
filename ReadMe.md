@@ -106,7 +106,7 @@ Game speeds up as time goes on.
 
 7 - Summary
 -----------
-Overall the project was a success, in less then two months we learned how to use Unity, apply game dynamics and fundementals, created a working game implementing many features, uploaded it successfully to the Windows Phone and Android stores and entered into the Irish Games Fleadh.  
+Overall the project was a success, in less then two months we learned how to use Unity, apply game dynamics and fundamentals, created a working game implementing many features, uploaded it successfully to the Windows Phone and Android stores and entered into the Irish Games Fleadh.  
 Much was learned during this process.  
   
 The Unity website has some amazing tutorials and documentation.  
